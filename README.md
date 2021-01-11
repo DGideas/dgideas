@@ -1,1 +1,1 @@
-DGideas is a natural language processing and recommendation system algorithm engineer from Beijing, China. He is involved in projects related to Computer Composition Principle Lab in Tsinghua University and Big Data Intelligence Lab in Beijing University of Technology. He mainly uses C++, PHP, Golang and Python programming languages. Currently, he is focusing on the research of machine learning and deep learning.
+DGideas来自中国北京市，自然语言处理与推荐系统算法工程师，本科就读于北京石油化工学院计算机科学与技术系。参与清华大学计算机组成原理实验室，北京理工大学大数据智能实验室相关项目。主要使用C++、PHP、Golang与Python等程序设计语言。目前关注于机器学习与深度学习方向的研究。
